@@ -1,5 +1,6 @@
 # How to Install and Run a Shardeum Validator Node
 Use port 8686 9001 10002
+
 This guide will walk you through the process of installing and running a Shardeum Validator Node on your system. Please follow the steps below carefully.
 
 ## Prerequisites
